@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable/empty_icon.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable/empty_icon.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable/pager_background.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable/pager_background.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable/top_shadow.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable/top_shadow.xml"
+    }
+]

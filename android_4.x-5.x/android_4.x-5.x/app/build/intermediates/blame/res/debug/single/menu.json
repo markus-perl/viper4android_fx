@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/menu/menu.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/menu/menu_tabbed.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/menu/menu_tabbed.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_drawer.png",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable-ldpi/ic_drawer.png"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/vp_background_texture.png",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable-ldpi/vp_background_texture.png"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/drawer_shadow.9.png",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/drawable-ldpi/drawer_shadow.9.png"
+    }
+]

@@ -1,0 +1,323 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* Android.mk
+* android_4.x-5.x/
+* android_4.x-5.x/.idea/
+* android_4.x-5.x/.idea/.name
+* android_4.x-5.x/.idea/compiler.xml
+* android_4.x-5.x/.idea/copyright/
+* android_4.x-5.x/.idea/copyright/profiles_settings.xml
+* android_4.x-5.x/.idea/encodings.xml
+* android_4.x-5.x/.idea/misc.xml
+* android_4.x-5.x/.idea/workspace.xml
+* android_4.x-5.x/app/
+* android_4.x-5.x/app/build.gradle
+* android_4.x-5.x/app/libs/
+* android_4.x-5.x/app/libs/RootTools-4.2.jar
+* android_4.x-5.x/app/libs/android-support-v13.jar
+* android_4.x-5.x/app/lint.xml
+* android_4.x-5.x/app/src/
+* android_4.x-5.x/app/src/main/
+* android_4.x-5.x/app/src/main/AndroidManifest.xml
+* android_4.x-5.x/app/src/main/assets/
+* android_4.x-5.x/app/src/main/assets/91-v4a.sh
+* android_4.x-5.x/app/src/main/assets/Changelog_en_US.txt
+* android_4.x-5.x/app/src/main/assets/Changelog_zh_CN.txt
+* android_4.x-5.x/app/src/main/assets/Changelog_zh_TW.txt
+* android_4.x-5.x/app/src/main/assets/ViPERDDC.db
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_ics_NEON.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_ics_NEON_HQ.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_ics_NEON_SQ.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_ics_NOVFP.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_ics_VFP.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_ics_X86.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_jb_NEON.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_jb_NEON_HQ.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_jb_NEON_SQ.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_jb_NOVFP.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_jb_VFP.so
+* android_4.x-5.x/app/src/main/assets/libv4a_fx_jb_X86.so
+* android_4.x-5.x/app/src/main/assets/ver.txt
+* android_4.x-5.x/app/src/main/java/
+* android_4.x-5.x/app/src/main/java/com/
+* android_4.x-5.x/app/src/main/java/com/vipercn/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/BuildProp.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/DDCDatabase.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/IRSUtils.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/MainDSPScreen.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/ShellCommand.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/StaticEnvironment.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/Utils.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/V4AJniInterface.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/activity/ViPER4Android.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/Biquad.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/Complex.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/EqualizerPreference.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/EqualizerSurface.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/SummariedListPreference.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/SummariedListPreferenceDDC.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/preference/SummariedListPreferenceWithCustom.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/receiver/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/receiver/BootCompletedReceiver.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/service/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/service/ViPER4AndroidService.java
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/widgets/
+* android_4.x-5.x/app/src/main/java/com/vipercn/viper4android_v2/widgets/CustomDrawerLayout.java
+* android_4.x-5.x/app/src/main/jni/
+* android_4.x-5.x/app/src/main/jni/Android.mk
+* android_4.x-5.x/app/src/main/jni/Application.mk
+* android_4.x-5.x/app/src/main/jni/Hash.cpp
+* android_4.x-5.x/app/src/main/jni/V4AJniInterface.cpp
+* android_4.x-5.x/app/src/main/jni/V4AJniInterface.h
+* android_4.x-5.x/app/src/main/jni/WavReader.cpp
+* android_4.x-5.x/app/src/main/jni/WavReader.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g721.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g723_16.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g723_24.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g723_40.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g72x.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g72x.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/G72x/g72x_priv.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/add.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/code.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/config.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/decode.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm610_priv.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm_create.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm_decode.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm_destroy.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm_encode.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/gsm_option.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/long_term.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/lpc.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/preprocess.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/rpe.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/short_term.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/GSM610/table.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/aiff.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/alaw.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/au.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/audio_detect.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/avr.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/broadcast.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/caf.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/chanmap.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/chanmap.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/chunk.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/command.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/common.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/common.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/config.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/dither.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/double64.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/dwd.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/dwvw.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/file_io.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/flac.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/float32.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/g72x.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/gsm610.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/htk.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/id3.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ima_adpcm.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ima_oki_adpcm.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ima_oki_adpcm.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/interleave.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ircam.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/macbinary3.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/macos.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/mat4.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/mat5.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/mpc2k.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ms_adpcm.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/nist.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ogg.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ogg.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/paf.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/pcm.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/pvf.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/raw.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/rf64.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/rx2.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/sd2.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/sds.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/sf_unistd.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/sfconfig.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/sfendian.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/sndfile.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/sndfile.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/strings.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/svx.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/txw.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/ulaw.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/voc.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/vox_adpcm.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/w64.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/wav.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/wav_w64.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/wav_w64.h
+* android_4.x-5.x/app/src/main/jni/libsndfile/windows.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/wve.c
+* android_4.x-5.x/app/src/main/jni/libsndfile/xi.c
+* android_4.x-5.x/app/src/main/res/
+* android_4.x-5.x/app/src/main/res/drawable-hdpi-v21/
+* android_4.x-5.x/app/src/main/res/drawable-hdpi-v21/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi-v21/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi-v21/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi-v21/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi/
+* android_4.x-5.x/app/src/main/res/drawable-hdpi/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-hdpi/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi-v21/
+* android_4.x-5.x/app/src/main/res/drawable-ldpi-v21/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi-v21/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi-v21/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi-v21/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi/
+* android_4.x-5.x/app/src/main/res/drawable-ldpi/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-ldpi/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi-v21/
+* android_4.x-5.x/app/src/main/res/drawable-mdpi-v21/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi-v21/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi-v21/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi-v21/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi/
+* android_4.x-5.x/app/src/main/res/drawable-mdpi/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-mdpi/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi-v21/
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi-v21/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi-v21/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi-v21/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi-v21/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi/
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi/drawer_shadow.9.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi/ic_drawer.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-xhdpi/vp_background_texture.png
+* android_4.x-5.x/app/src/main/res/drawable-xxhdpi-v21/
+* android_4.x-5.x/app/src/main/res/drawable-xxhdpi-v21/icon.png
+* android_4.x-5.x/app/src/main/res/drawable-xxhdpi/
+* android_4.x-5.x/app/src/main/res/drawable-xxhdpi/icon.png
+* android_4.x-5.x/app/src/main/res/drawable/
+* android_4.x-5.x/app/src/main/res/drawable/empty_icon.xml
+* android_4.x-5.x/app/src/main/res/drawable/pager_background.xml
+* android_4.x-5.x/app/src/main/res/drawable/top_shadow.xml
+* android_4.x-5.x/app/src/main/res/layout/
+* android_4.x-5.x/app/src/main/res/layout/activity_main.xml
+* android_4.x-5.x/app/src/main/res/layout/activity_main_tabbed.xml
+* android_4.x-5.x/app/src/main/res/layout/drawer_item.xml
+* android_4.x-5.x/app/src/main/res/layout/drvstatus.xml
+* android_4.x-5.x/app/src/main/res/layout/equalizer.xml
+* android_4.x-5.x/app/src/main/res/layout/equalizer_popup.xml
+* android_4.x-5.x/app/src/main/res/menu/
+* android_4.x-5.x/app/src/main/res/menu/menu.xml
+* android_4.x-5.x/app/src/main/res/menu/menu_tabbed.xml
+* android_4.x-5.x/app/src/main/res/values-es/
+* android_4.x-5.x/app/src/main/res/values-es/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-es/strings.xml
+* android_4.x-5.x/app/src/main/res/values-ko/
+* android_4.x-5.x/app/src/main/res/values-ko/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-ko/strings.xml
+* android_4.x-5.x/app/src/main/res/values-pl/
+* android_4.x-5.x/app/src/main/res/values-pl/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-pl/strings.xml
+* android_4.x-5.x/app/src/main/res/values-ro/
+* android_4.x-5.x/app/src/main/res/values-ro/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-ro/strings.xml
+* android_4.x-5.x/app/src/main/res/values-ru/
+* android_4.x-5.x/app/src/main/res/values-ru/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-ru/strings.xml
+* android_4.x-5.x/app/src/main/res/values-tr/
+* android_4.x-5.x/app/src/main/res/values-tr/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-tr/strings.xml
+* android_4.x-5.x/app/src/main/res/values-v21/
+* android_4.x-5.x/app/src/main/res/values-v21/colors.xml
+* android_4.x-5.x/app/src/main/res/values-v21/styles.xml
+* android_4.x-5.x/app/src/main/res/values-zh-rCN/
+* android_4.x-5.x/app/src/main/res/values-zh-rCN/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-zh-rCN/strings.xml
+* android_4.x-5.x/app/src/main/res/values-zh-rTW/
+* android_4.x-5.x/app/src/main/res/values-zh-rTW/arrays.xml
+* android_4.x-5.x/app/src/main/res/values-zh-rTW/strings.xml
+* android_4.x-5.x/app/src/main/res/values/
+* android_4.x-5.x/app/src/main/res/values/arrays.xml
+* android_4.x-5.x/app/src/main/res/values/bools.xml
+* android_4.x-5.x/app/src/main/res/values/colors.xml
+* android_4.x-5.x/app/src/main/res/values/dimens.xml
+* android_4.x-5.x/app/src/main/res/values/ids.xml
+* android_4.x-5.x/app/src/main/res/values/strings.xml
+* android_4.x-5.x/app/src/main/res/values/styles.xml
+* android_4.x-5.x/app/src/main/res/xml/
+* android_4.x-5.x/app/src/main/res/xml/bluetooth_preferences_l0.xml
+* android_4.x-5.x/app/src/main/res/xml/bluetooth_preferences_l1.xml
+* android_4.x-5.x/app/src/main/res/xml/bluetooth_preferences_l2.xml
+* android_4.x-5.x/app/src/main/res/xml/headset_preferences_l0.xml
+* android_4.x-5.x/app/src/main/res/xml/headset_preferences_l1.xml
+* android_4.x-5.x/app/src/main/res/xml/headset_preferences_l2.xml
+* android_4.x-5.x/app/src/main/res/xml/speaker_preferences_l0.xml
+* android_4.x-5.x/app/src/main/res/xml/speaker_preferences_l1.xml
+* android_4.x-5.x/app/src/main/res/xml/speaker_preferences_l2.xml
+* android_4.x-5.x/app/src/main/res/xml/usb_preferences_l0.xml
+* android_4.x-5.x/app/src/main/res/xml/usb_preferences_l1.xml
+* android_4.x-5.x/app/src/main/res/xml/usb_preferences_l2.xml
+* android_4.x-5.x/build.gradle
+* android_4.x-5.x/gradle/
+* android_4.x-5.x/gradle/wrapper/
+* android_4.x-5.x/gradle/wrapper/gradle-wrapper.jar
+* android_4.x-5.x/gradle/wrapper/gradle-wrapper.properties
+* android_4.x-5.x/gradlew
+* android_4.x-5.x/gradlew.bat
+* android_4.x-5.x/local.properties
+* android_4.x-5.x/settings.gradle
+* output/
+* output/android_4.x-5.x.unaligned.apk
+* proguard.flags
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* jni/ => app/src/main/jni/
+* libs/RootTools-4.2.jar => app/libs/RootTools-4.2.jar
+* libs/android-support-v13.jar => app/libs/android-support-v13.jar
+* lint.xml => app/lint.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

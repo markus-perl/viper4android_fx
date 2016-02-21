@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/layout/equalizer.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/layout/equalizer.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/layout/activity_main_tabbed.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/layout/activity_main_tabbed.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/layout/drvstatus.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/layout/drvstatus.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/layout/equalizer_popup.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/layout/equalizer_popup.xml"
+    },
+    {
+        "merged": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/res/merged/debug/layout/drawer_item.xml",
+        "source": "/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/src/main/res/layout/drawer_item.xml"
+    }
+]
