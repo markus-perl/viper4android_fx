@@ -1,19 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
-
-    <item
-        jar="/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/libs/android-support-v13.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="67a612e91a8c7f89536d5cf896fdfef7269a285d">
-        <dex dex="/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/pre-dexed/debug/android-support-v13_7376f2c5d125a0048b0b4a116f3c0c65a64b8c8f.jar" />
-    </item>
-    <item
-        jar="/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/libs/RootTools-4.2.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="5acf020c8db3eb87824b2f47949294732f04b019">
-        <dex dex="/Volumes/Daten/dev/android/viper4android_fx/android_4.x-5.x/android_4.x-5.x/app/build/intermediates/pre-dexed/debug/RootTools-4.2_e21964939f2be4bba338f95ff81f1bab9c52fc69.jar" />
-    </item>
-
-</items>
+<items version="2" />
